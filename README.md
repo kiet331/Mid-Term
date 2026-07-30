@@ -21,11 +21,3 @@ JavaScript: Sử dụng `IntersectionObserver` cho hiệu ứng cuộn trang tr�
 LIÊN KẾT TÀI NGUYÊN
 - Link bản thiết kế Figma (Viewer): https://www.figma.com/make/VahbksBz53yXrLfrgk28bl/3-Page-Web-Design-System?code-node-id=0-6&p=f&t=xlsQHuLSHhAAzFgL-0&fullscreen=1
 - Link Live Demo (Website Online): https://kiet331.github.io/Mid-Term/
-
-CẤU TRÚC THƯ MỤC DỰ ÁN
-├── index.html       # Trang cá nhân (BentoProfile)
-├── index2.html      # Trang du lịch (Travel Destination)
-├── index3.html      # Trang cửa hàng (Collectibles Store)
-├── style.css        # File CSS dùng chung cho cả 3 trang
-├── app.js           # File JS tạo hiệu ứng cuộn & tương tác
-└── README.md        # File thông tin dự án
