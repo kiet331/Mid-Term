@@ -1,18 +1,16 @@
-- DỰ ÁN WEBSITE MULTI-PAGE PHONG CÁCH BENTO BOX
-
 - THÔNG TIN SINH VIÊN
-Phan Văn Anh Kiệt
-2400003688
-24BITV01
+#Phan Văn Anh Kiệt
+#2400003688
+#24BITV01
 
 - MÔ TẢ DỰ ÁN
-Website được thiết kế theo phong cách **Bento Box UI** hiện đại, tối giản, sử dụng tông màu chủ đạo Tím/Trắng thanh lịch (`#7B5EEA`). Hệ thống bao gồm **3 trang web** riêng biệt được liên kết đồng bộ thông qua thanh Menu điều hướng:
+Website được thiết kế theo phong cách Bento Box UI hiện đại, tối giản, sử dụng tông màu chủ đạo Xanh/Trắng thanh lịch (`#7EEAE8`). Hệ thống bao gồm 3 trang web riêng biệt được liên kết đồng bộ thông qua thanh Menu điều hướng:
 
-Trang 1: Personal Portfolio (`index.html`)
+Trang 1: Personal BentoProfile
 - Trang cá nhân giới thiệu bản thân, kỹ năng lập trình/thiết kế, kinh nghiệm làm việc và thông tin liên hệ.
-Trang 2: Travel Destination (`index2.html`)
+Trang 2: Travel Destination
 - Trang giới thiệu địa điểm du lịch (Đà Lạt mộng mơ) với hình ảnh phong cảnh, thông tin thời tiết/khí hậu, gallery mini và trải nghiệm phải thử.
-Trang 3: Collectibles Store (`index3.html`)
+Trang 3: Collectibles Store
 - Trang cửa hàng bán đồ cổ & đồ sưu tầm (máy ảnh vintage, đồng hồ, tem cổ, đĩa than) với giao diện Bento dạng E-commerce.
 
 - CÔNG NGHỆ SỬ DỤNG
@@ -22,11 +20,10 @@ JavaScript: Sử dụng `IntersectionObserver` cho hiệu ứng cuộn trang tr�
 
 LIÊN KẾT TÀI NGUYÊN
 - Link bản thiết kế Figma (Viewer): https://www.figma.com/make/VahbksBz53yXrLfrgk28bl/3-Page-Web-Design-System?code-node-id=0-6&p=f&t=xlsQHuLSHhAAzFgL-0&fullscreen=1
-- Link Live Demo (Website Online): 
+- Link Live Demo (Website Online): https://kiet331.github.io/Mid-Term/
 
 CẤU TRÚC THƯ MỤC DỰ ÁN
-```text
-├── index.html       # Trang cá nhân (Portfolio)
+├── index.html       # Trang cá nhân (BentoProfile)
 ├── index2.html      # Trang du lịch (Travel Destination)
 ├── index3.html      # Trang cửa hàng (Collectibles Store)
 ├── style.css        # File CSS dùng chung cho cả 3 trang
